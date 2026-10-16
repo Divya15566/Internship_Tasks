@@ -1,4 +1,4 @@
-# problem 1 : Python Division
+# problem 3 : Python Division
 # hackerRank Link: https://www.hackerrank.com/challenges/python-division/problem
 
 if __name__ == '__main__':
