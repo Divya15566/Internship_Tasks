@@ -1,4 +1,4 @@
-# problem 1 : Loops
+# problem 4 : Loops
 # hackerRank Link: https://www.hackerrank.com/challenges/python-loops/problem
 
 if __name__ == '__main__':
